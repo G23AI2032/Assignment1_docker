@@ -21,18 +21,24 @@ By implementing these functionalities, you can create a user-friendly and effect
 - [Author](#author)
 
 ## Docker Installation
-Step 1:For Docker installation in VM :
+Step 1:**For Docker installation in VM** :
+
           sudo apt install docker.io
+          
           sudo systemctl enable docker
+          
           sudo systemctl status docker
+          
           sudo systemctl start docker
           
-Step 2: Container creation:
+Step 2: **Container creation**:
+
         sudo docker build -t employee_feedback_form .
         
 When we run the above command , output will be in the form of an image.
 
-Step 3: Run the docker image :
+Step 3: **Run the docker image** :
+
         sudo docker run -p 5000:5000 employee_feedback_form
         
 Step 4:
