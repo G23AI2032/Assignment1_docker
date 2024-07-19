@@ -18,6 +18,7 @@ By implementing these functionalities, you can create a user-friendly and effect
 
 - [Docker Installation](#dockerInstallation)
 - [Usage](#usage)
+- [Sample screens](#sampleScreens)
 - [Author](#author)
 
 ## Docker Installation
@@ -43,6 +44,15 @@ Step 3: **Run the docker image** :
         
 Step 4:
       Open the browser and launch the web application using IP address.
+
+## Sample screens
+
+**Screen 1:**
+![image](https://github.com/user-attachments/assets/a2a332e7-e3f8-4476-8fa3-f2d226b87260)
+
+**Screen 2:**
+![image](https://github.com/user-attachments/assets/b1c3a9dd-e1e1-4671-8f2a-cbc86d829e87)
+
 
 ## Usage
 
